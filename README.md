@@ -31,8 +31,7 @@ Gosto de problemas que exigem pensamento analítico: desmontar a questão, enten
 
 **[pipeline-audicoes](https://github.com/vitoriasalgado/pipeline-audicoes)** — pipeline de engenharia de dados do meu histórico musical: Last.fm → MinIO → Airflow → PostgreSQL, em arquitetura medalhão (bronze → prata → ouro).
 
-**[api](https://github.com/vitoriasalgado/api)** — [descrever em uma linha: o que a API faz e com qual stack]
-
+**[api](https://github.com/vitoriasalgado/api)** — Boilerplate de API REST em FastAPI + Python 3.12
 ### <img src="assets/icon-lily.png" height="16" alt="" /> Idiomas
 
 Português (nativo) · Inglês (leitura, escrita e conversação) · Francês (em estudo)
