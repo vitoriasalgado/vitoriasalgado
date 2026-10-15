@@ -38,6 +38,4 @@ Português (nativo) · Inglês (leitura, escrita e conversação) · Francês (e
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vitoriasalgado&show_icons=true&hide_border=true&hide_title=true&bg_color=00000000&title_color=B08585&text_color=8C7B78&icon_color=DCB5AB" alt="" />
-</p>
+
